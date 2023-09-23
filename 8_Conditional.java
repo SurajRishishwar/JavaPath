@@ -37,5 +37,9 @@ class Conditional{
             
             //statement
         }
+
+
+        //use case 4:- ternary operator
+        int res =/*condition*/4==3?true/*true case*/:false/*false case*/; // int  x = 6==3?6:3;
     }
 }
