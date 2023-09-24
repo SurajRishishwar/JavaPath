@@ -1,4 +1,4 @@
-class Overriders{
+class Overloading{
     public static void main(String ar[]){
         Container cont = new Container(); 
         int r = cont.add(34,7,9);
