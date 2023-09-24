@@ -1,4 +1,4 @@
-public class A2_Objects{
+class Objects{
     public static void main(String ar[]){
         int number1=8;
         int number2=11;
