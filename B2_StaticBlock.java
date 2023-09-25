@@ -9,8 +9,6 @@ class StaticBlock{
         obj2.teachers=23;
         obj2.students=90;
         obj2.show();
-        
-
     }
 }
 
