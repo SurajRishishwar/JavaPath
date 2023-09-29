@@ -9,7 +9,7 @@ public class E9_CollectionSet {
         obj.add(3);
         obj.add(6);
         obj.add(22);
-        obj.add(22);
+        obj.add(22);// not contain in sorted form due to hashset
 
         System.out.println(obj);
 
