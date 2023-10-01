@@ -9,7 +9,7 @@ public class F6_StreamInterface {
             
         List<Integer> nums= Arrays.asList(1,5,6,8); 
         
-        //in a two way form
+        //in a two way form.
 
         Stream<Integer> s1=nums.stream();
         Stream<Integer> s2= s1.filter(n->n%2==0); 
