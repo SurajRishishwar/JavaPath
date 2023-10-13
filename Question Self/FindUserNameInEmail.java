@@ -11,7 +11,7 @@ public class FindUserNameInEmail {
             userName[i]=em[i];
         }
 
-    
+
         System.out.println(userName);
 
         input.close();
